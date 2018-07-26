@@ -1,0 +1,7 @@
+﻿  undistort.cpp
+d:\vsproject\fisheyetransform\fisheyetransform\undistort.cpp(45): warning C4305: “=”: 从“double”到“float”截断
+d:\vsproject\fisheyetransform\fisheyetransform\undistort.cpp(46): warning C4305: “=”: 从“double”到“float”截断
+d:\vsproject\fisheyetransform\fisheyetransform\undistort.cpp(47): warning C4305: “=”: 从“double”到“float”截断
+d:\vsproject\fisheyetransform\fisheyetransform\undistort.cpp(48): warning C4305: “=”: 从“double”到“float”截断
+  fisheyeTransform.vcxproj -> D:\VSproject\fisheyeTransform\Debug\fisheyeTransform.exe
+  fisheyeTransform.vcxproj -> D:\VSproject\fisheyeTransform\Debug\fisheyeTransform.pdb (Full PDB)
